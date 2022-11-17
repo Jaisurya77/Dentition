@@ -36,12 +36,6 @@ This is a web based application developed for health related website in india
 
 
 
-### Privacy policy -
-
-
-![Screenshot 2022-03-07 090943](https://user-images.githubusercontent.com/98517345/156963849-e8ead038-b9ea-4320-9165-9f99cf00d9d2.jpg)
-
-
 
 ##**Contact Us**
 ![Screenshot (17)](https://user-images.githubusercontent.com/114804805/202419115-f947108e-1b9f-42d2-b87f-2f7d48f1e10d.png)
