@@ -47,6 +47,7 @@ This is a web based application developed for health related website in india
 ##**Dental Bot**##
 ![Screenshot (24)](https://user-images.githubusercontent.com/114804805/204596668-c1ff9454-809b-4625-97e0-b879ae26e200.png)
 ![Screenshot (25)](https://user-images.githubusercontent.com/114804805/204596748-a14b36c6-c8fd-4917-ac1c-fce5a05b8f8f.png)
+![Screenshot (26)](https://user-images.githubusercontent.com/114804805/204599485-c1e3e20d-9277-4a7d-b79f-ab2e8d194829.png)
 
 
 ## Tech Stack 💻
